@@ -1,3 +1,5 @@
+groundhog.library()
+
 dir.create("data/")
 dir.create("scripts/")
 
