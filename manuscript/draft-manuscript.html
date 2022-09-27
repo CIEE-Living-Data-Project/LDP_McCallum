@@ -9,11 +9,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Katlin McCallum" />
 
-<meta name="date" content="2022-09-27" />
 
-<title>draft manuscript</title>
+<title>draft-manuscript.knit</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -253,28 +251,6 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-/* for pandoc --citeproc since 2.11 */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}
-</style>
 
 
 
@@ -385,43 +361,68 @@ pre code {
 
 
 
-<h1 class="title toc-ignore">draft manuscript</h1>
-<h4 class="author">Katlin McCallum</h4>
-<h4 class="date">2022-09-27</h4>
 
 </div>
 
 
-<p><strong>Title:</strong> Greater sage grouse abundance at lek sites in
-Grasslands National Park, Saskatchewan</p>
+<p>#I am using groundhog as a package manager</p>
+<p>library(groundhog) groundhog.library(tidyverse, date = “2022-09-15”)
+groundhog.library(ggplot2, date = “2022-09-15”)</p>
+<p>Format is for Ecology Letters</p>
+<p>geometry: margin=1in</p>
+<p>head-includes: -</p>
+<p>output: pdf_document</p>
+<p>csl: <a href="https://raw.githubusercontent.com/citation-style-language/styles/6152ccea8b7d7a472910d36524d1bf3557a83bfc/ecology-letters.csl" class="uri">https://raw.githubusercontent.com/citation-style-language/styles/6152ccea8b7d7a472910d36524d1bf3557a83bfc/ecology-letters.csl</a></p>
+<div id="bibliography-references.bib" class="section level2">
+<h2>bibliography: references.bib</h2>
+<p><strong>Title:</strong> Variation in greater sage grouse abundance at
+lek sites in Grasslands National Park, Saskatchewan</p>
 <p>Katlin McCallum<sup>1</sup></p>
 <ol style="list-style-type: decimal">
 <li>Department of Biology, University of Regina</li>
 </ol>
-<div style="page-break-after: always;"></div>
+</div>
 <div id="abstract" class="section level1">
 <h1>Abstract</h1>
+<p>Grasslands National Park in southern Saskatchewan has a population of
+greater sage grouse. Each spring, the male greater sage grouse
+congregate in groups at known locations to lek. These lek sites were
+monitored from 2007-2020 and the abundance of male birds was counted at
+each site. I am graphically illustrating the abundance trends over the
+years for each lek site.</p>
 </div>
 <div id="introduction" class="section level1">
 <h1>Introduction</h1>
-<p>ADD TEXT IN HERE!!!! <span class="citation">(Knick <em>et al.</em>
-2013)</span></p>
-<p>#Methods</p>
-<p>#Results</p>
-<p>#Discussion</p>
-<p>#References</p>
-<p>#Tables</p>
-<p>#Figure Captions</p>
-<p>#Figures</p>
-<p>#Appendices</p>
-<div id="refs" class="references csl-bib-body hanging-indent">
-<div id="ref-knick2013" class="csl-entry">
-Knick, S.T., Hanser, S.E. &amp; Preston, K.L. (2013). <a href="https://doi.org/10.1002/ece3.557">Modeling ecological minimum
-requirements for distribution of greater sage-grouse leks: Implications
-for population connectivity across their western range, u.s.a</a>.
-<em>Ecology and Evolution</em>, 3, 1539–1551.
 </div>
+<div id="methods" class="section level1">
+<h1>Methods</h1>
+<p>Grasslands National Park staff observed lek sites during the breeding
+season from 2005-2020. The maximum number of male birds at a lek site at
+one time was termed peak male attendance and this was recorded for each
+lek site. Using the ggplot2 package in R, I am graphically representing
+the variation in abundance between lek sites over the 15 years of
+observations.</p>
 </div>
+<div id="results" class="section level1">
+<h1>Results</h1>
+</div>
+<div id="discussion" class="section level1">
+<h1>Discussion</h1>
+</div>
+<div id="references" class="section level1">
+<h1>References</h1>
+</div>
+<div id="tables" class="section level1">
+<h1>Tables</h1>
+</div>
+<div id="figure-captions" class="section level1">
+<h1>Figure Captions</h1>
+</div>
+<div id="figures" class="section level1">
+<h1>Figures</h1>
+</div>
+<div id="appendices" class="section level1">
+<h1>Appendices</h1>
 </div>
 
 

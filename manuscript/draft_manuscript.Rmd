@@ -1,0 +1,42 @@
+---
+title: Variation in male greater sage grouse abundance at lek sites in Grasslands National Park
+author:
+    name: Katlin McCallum
+    email: mccallka@uregina.ca
+    affiliation: University of Regina
+    correspondingauthor: false
+    footnote: 1
+address:
+    address: Department of Biology, 3737 Wascana Parkway, Regina SK
+
+abstract: |
+  Grasslands National Park in southern Saskatchewan has a population of greater sage grouse. Each spring, the male greater sage grouse congregate in groups at known locations to lek. These lek sites were monitored from 2007-2020 and the abundance of male birds was counted at each site. I am graphically illustrating the abundance trends over the years for each lek site.
+
+keywords: 
+  - grassland ecology
+  - species at risk
+journal: "Ecology Letters"
+date: "`r Sys.Date()`"
+bibliography: references.bib
+linenumbers: true
+numbersections: true
+# Use a CSL with `citation_package = "default"`
+# csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/ecology-letters.csl"
+
+output: 
+  pdf_document
+---
+
+## Introduction:
+
+Male greater sage grouse congregate during the breeding season to lek [@knick2013].
+
+## Methods:
+
+Grasslands National Park staff observed lek sites during the breeding season from 2005-2020. The maximum number of male birds at a lek site at one time was termed peak male attendance and this was recorded for each lek site. Using the ggplot2 package in R, I am graphically representing the variation in abundance between lek sites over the 15 years of observations.
+
+## Results:
+
+## Discussion:
+
+## References:
