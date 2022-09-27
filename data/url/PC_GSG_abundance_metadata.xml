@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:ns1="http://spdx.org/rdf/terms#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="https://open.canada.ca/dataset/9458e765-9cf1-4091-aa02-285df5e65bb3">
+    <dcat:distribution>
+      <rdf:Description rdf:about="https://open.canada.ca/dataset/9458e765-9cf1-4091-aa02-285df5e65bb3/resource/dcca6b68-1c6e-4fd8-aa31-63bda1b6750d">
+        <dcat:accessURL rdf:resource="https://open.canada.ca/data/dataset/9458e765-9cf1-4091-aa02-285df5e65bb3/resource/dcca6b68-1c6e-4fd8-aa31-63bda1b6750d/download/grasslands_np_grasslands_greater_sage-grouse_abundance_2007-2020_data.csv"/>
+        <ns1:checksum>
+          <rdf:Description rdf:nodeID="N6d32477712fb407db7eecac6c13d1b2b">
+            <ns1:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">f77a32b3a891dc5e0dcca1218ebfac13</ns1:checksumValue>
+          </rdf:Description>
+        </ns1:checksum>
+        <dct:language>en</dct:language>
+        <dct:format>CSV</dct:format>
+        <dct:title>Greater Sage-grouse - Grasslands</dct:title>
+        <dct:language>fr</dct:language>
+        <schema:itemtype rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+      </rdf:Description>
+    </dcat:distribution>
+    <dcat:landingPage rdf:resource="{u'fr': u'http://pc.gc.ca/fr/pn-np/sk/grasslands', u'en': u'http://pc.gc.ca/en/pn-np/sk/grasslands'}"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-21T16:11:25.830311</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-09T19:50:51.850713</dct:issued>
+    <dct:title>Greater Sage-Grouse Abundance - Shrublands</dct:title>
+    <dct:identifier>9458e765-9cf1-4091-aa02-285df5e65bb3</dct:identifier>
+    <dct:publisher>
+      <rdf:Description rdf:about="https://open.canada.ca/organization/B578A1C3-FDCF-4F36-89E2-3B2E75020C43">
+        <schema:itemtype rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <foaf:name>Parks Canada | Parcs Canada</foaf:name>
+      </rdf:Description>
+    </dct:publisher>
+    <schema:itemtype rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:description>The park monitors the population trends of Sage Grouse at leks within the park and on adjacent lands in the greater ecosystem. The actual measure is the sum of the maximum number of males attending each studied lek in a given year.&#13;
+&#13;
+</dct:description>
+    <dct:accrualPeriodicity>P1Y</dct:accrualPeriodicity>
+    <dcat:distribution>
+      <rdf:Description rdf:about="https://open.canada.ca/dataset/9458e765-9cf1-4091-aa02-285df5e65bb3/resource/3d924299-7f19-4899-91c2-140aa5dfd54a">
+        <dcat:accessURL rdf:resource="https://124gc.sharepoint.com/:x:/s/external/_layouts/15/download.aspx/EfKTxqZX_UdPqjKl5r4SNeUBkfpDoq7Ua2P5ZaxxUTYmEQ?e=AZZMGs"/>
+        <dct:title>Greater Sage-grouse - Grasslands - Data Dictionary</dct:title>
+        <dct:language>en</dct:language>
+        <dct:language>fr</dct:language>
+        <dct:format>CSV</dct:format>
+        <schema:itemtype rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+      </rdf:Description>
+    </dcat:distribution>
+    <dcat:contactPoint>
+      <rdf:Description rdf:nodeID="Nf57e0fe9546947908a93482fc266dfa0">
+        <schema:itemtype rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
+        <vcard:hasEmail>stefano.liccioli@pc.gc.ca</vcard:hasEmail>
+      </rdf:Description>
+    </dcat:contactPoint>
+  </rdf:Description>
+</rdf:RDF>

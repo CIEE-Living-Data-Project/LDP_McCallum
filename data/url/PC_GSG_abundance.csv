@@ -1,0 +1,207 @@
+Date,Year,Observer 1,Oberver 2,Observer 3,Lek,Temperature,Wind Speed ,Percent Cloud Cover,Mist or Fog,Precipitation ,Time Observation Started,Time Observation Concluded,Maximum # of Males 0-15 Minutes,Maximum # of Males 15-30 Minutes,Maximum # of Males 30-45 Minutes,Maximum # of Males 45-60 Minutes,Maximum # of Males 60-75 Minutes,Maximum # of Males 75-90 Minutes,Maximum # of Males 90-105 Minutes,Maximum # of Males 105-120 Minutes,Maximum # of Females 0-15 Minutes,Maximum # of Females 15-30 Minutes,Maximum # of Females 30-45 Minutes,Maximum # of Females 45-60 Minutes,Maximum # of Females 60-75 Minutes,Maximum # of Females 75-90 Minutes,Maximum # of Females 90-105 Minutes,Maximum # of Females 105-120 Minutes,Maximum # of Sex Unknown 0-15 Minutes,Maximum # of Sex Unknown 15-30 Minutes,Maximum # of Sex Unknown 30-45 Minutes,Maximum # of Sex Unknown 45-60 Minutes,Maximum # of Sex Unknown 60-75 Minutes,Maximum #  of Sex Unknown 75-90 Minutes,Maximum # of Sex Unknown 90-105 Minutes,Maximum # of Sex Unknown 105-120 Minutes,Peak Male Attendance,Peak Female Attendance,Peak Sex Unknown Attendance,Audial Greater Sage-grouse Observation,Audial Sharp-tailed Grouse Observations,Audial Unknown Grouse Observations,Coyotes,Northern Harrier,Golden Eagle,Buteo species,Other,Specify Other,Strategic Annual Lek Monitoring Survey
+Date,Année,Observateur 1,Observateur 2,Observateur 3,Lek,Température,Vitesse du vent,Pourcentage de la couverture nuageuse,Brume ou brouillard,Précipitation,Heure du début de l’observation ,Heure de la fin de l’observation,Nombre maximal de mâles 0-15 minutes ,Nombre maximal de mâles 15-30 minutes,Nombre maximal de mâles 30-45 minutes,Nombre maximal de mâles 45-60 minutes,Nombre maximal de mâles 60-75 minutes,Nombre maximal de mâles 75-90 minutes,Nombre maximal de mâles 90-105 minutes,Nombre maximal de mâles 105-120 minutes,Nombre maximal de femelles 0-15 minutes,Nombre maximal de femelles 15-30 minutes,Nombre maximal de femelles 30-45 minutes,Nombre maximal de femelles 45-60 minutes,Nombre maximal de femelles 60-75 minutes,Nombre maximal de femelles 75-90 minutes,Nombre maximal de femelles 90-105 minutes,Nombre maximal de femelles 105-120 minutes,Nombre maximal d’individus de sexe inconnu 0-15 minutes,Nombre maximal d’individus de sexe inconnu 15-30 minutes,Nombre maximal d’individus de sexe inconnu 30-45 minutes,Nombre maximal d’individus de sexe inconnu 45-60 minutes,Nombre maximal d’individus de sexe inconnu 60-75 minutes,Nombre maximal d’individus de sexe inconnu 75-90 minutes,Nombre maximal d’individus de sexe inconnu 90-105 minutes,Nombre maximal d’individus de sexe inconnu 105-120 minutes,Fréquentation maximale des mâles ,Fréquentation maximale des femelles,Fréquentation maximale des individus de sexe inconnu,Observation sonore de tétras des armoises,Observation sonore de tétras à queue fine,Observation sonore de tétras inconnu,Coyotes,Busard Saint-Martin,Aigle royal,Espèces de buses,Autres,Précisez autres ,Surveillance stratégique annuelle des leks
+01/05/2007,2007,Nigel Finney,,,Fireguard,,2,,,,5:30,6:45,,,,,,,,,,,,,,,,,,,,,,,,,20,0,0,,,,,,,,,,
+01/05/2007,2007,A. Henderson,G. Delves,,Rock Creek,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,0,,,,,,,,,,
+04/04/2007,2007,Chris Reed,,,Fireguard,-12,,,,,6:00,7:25,,,,,,,,,,,,,,,,,,,,,,,,,25,18,0,,,,,,,,,,
+05/04/2007,2007,Chris Reed,,,Fireguard,-9,,,,,6:10,8:40,,,,,,,,,,,,,,,,,,,,,,,,,25,18,0,,,,,,,,,,
+12/04/2007,2007,Brent McDougall,,,Snake Pit,-5,10,,,,6:31,8:11,,,,,,,,,,,,,,,,,,,,,,,,,4,8,0,,,,,,,,,,
+13/04/2007,2007,Rob Sissons,,,Police Coulee,-5,,,,,5:55,6:40,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+13/04/2007,2007,James,Fitzimmons,Watson,Dixon Y,-5,,,,,6:05,8:00,,,,,,,,,,,,,,,,,,,,,,,,,13,2,0,,,,,,,,,,
+17/04/2007,2007,Chris Reed,,,Fireguard,0,30-40,,,,6:00,6:50,,,,,,,,,,,,,,,,,,,,,,,,,23,3,0,,,,,,,,,,
+19/03/2007,2007,AH/DD,,,Dixon Y,2.7,4,85,,,7:15,8:45,,,,,,,,,,,,,,,,,,,,,,,,,13,2,0,,,,,,,,,,
+19/04/2007,2007,Chris Reed,,,Rock Creek,0,,,,,6:00,6:35,,,,,,,,,,,,,,,,,,,,,,,,,2,0,0,,,,,,,,,,
+21/04/2007,2007,Chris Reed,,,Fireguard,0,,,,,6:45,6:50,,,,,,,,,,,,,,,,,,,,,,,,,5,0,0,,,,,,,,,,
+21/04/2007,2007,Chris Reed,,,Rock Creek,-1,,,,,6:10,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+22/04/2007,2007,Frances Bennet,,,Snake Pit,,,,,,9:00,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,0,,,,,,,,,,
+22/04/2007,2007,Allison Henderson,,,Dixon Y,,,80,,,5:45,7:20,,,,,,,,,,,,,,,,,,,,,,,,,16,1,0,,,,,,,,,,
+27/04/2007,2007,Allison Henderson,Nigel Finny,,Dixon Y,,10,30,,,5:45,7:15,,,,,,,,,,,,,,,,,,,,,,,,,15,2,0,,,,,,,,,,
+30/03/2007,2007,Pat Fargey, A/AH,,Snake Pit,-5,3,,,,6:40,7:40,,,,,,,,,,,,,,,,,,,,,,,,,3,1,0,,,,,,,,,,
+30/03/2007,2007,Brent McDougall,,,Val Marie Pasture,-6,10,,,,6:15,6:40,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+30/03/2007,2007,Rob Sissons,,,Police Coulee,-5,,,,,6:45,7:15,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+30/03/2007,2007,Colin,Krissy ,David,Dixon Y,-5,,3,,,6:45,8:15,,,,,,,,,,,,,,,,,,,,,,,,,14,12,0,,,,,,,,,,
+04/04/2008,2008,Pat Fargey,,,Snake Pit,-5 to -8 ,,,,,6:20,6:50,3,3,3,0,0,0,0,0,3,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,,,,,,,,,,
+19/04/2008,2008,Pat Fargey,Chris Reed,,Snake Pit,,,,,,5:45,6:15,2,2,2,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,,,,,,,,,,
+20/03/2008,2008,Colin Schmidt,,,Dixon Y, -5 to -8,,,,,7:18,8:03,16,17,0,14,15,17,15,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,2,0,,,,,,,,,,
+20/03/2008,2008,Rob Sissons,,,Police Coulee,-5 to -8 ,,,,,6:30,8:30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,
+20/03/2008,2008,Pat Fargey,Rae-Anne Hanna,Ashly Wruth,Snake Pit,-5 to -9,,,,,6:40,7:40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,
+28/03/2008,2008,Rae Ann Hannah,,,Dixon Y,,,,,,6:35,8:00,13,17,1,0,0,0,,,0,0,0,0,0,0,,,0,0,0,0,0,0,,,17,0,0,,,,,,,,,,
+03/04/2009,2009,Colin Schmidt,,,Dixon Y,,,,,,6:45,9:00,10,11,11,11,11,11,11,12,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,12,1,0,,,,,,,,,,
+03/04/2009,2009,Robert Sissons,,,Police Coulee,0,,,,,6:15,6:30,0,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0,0,0,,,,,,,,,,
+09/04/2009,2009,Colin Schmidt,Helen Trefry,Medea Courtanau,Dixon Y,,,5,,,6:10,8:25,12,12,12,12,12,12,12,12,5,6,5,6,6,1,1,1,0,0,0,0,0,0,0,0,12,6,0,,,,,,,,,,
+09/04/2009,2009,Robert Sissons,,,Police Coulee,0,,,,,6:05,6:15,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+10/04/2009,2009,Pat Fargey,Krista Fink,Ryan Jeffries,Snake Pit,,light breeze,,,,6:00,6:30,1,1,1,,,,,,0,4,0,,,,,,0,0,0,,,,,,1,4,0,,,,,,,,,,
+17/04/2009,2009,Colin Schmidt,Ben Fargey,Lacy ?,Dixon Y,>0,,overcast,,,6:05,8:35,12,12,12,12,12,12,11,11,5,3,3,3,4,4,4,4,0,0,0,0,0,0,0,0,12,5,0,,,,,,,,,,
+17/04/2009,2009,Ashley Wruth,,,Snake Pit,2,,,,,6:20,7:45,,1,1,1,1,1,1,,,3,3,3,3,3,3,,,0,0,0,0,0,0,,1,3,0,,,,,,,,,,
+24/04/2009,2009,Colin Schmidt,Katherine Patterson,,Dixon Y,0,,light cloud,,,5:40,7:25,12,12,12,12,12,12,,,0,0,0,0,0,0,,,0,0,0,0,0,0,,,12,0,0,,,,,,,,,,
+24/04/2009,2009,Ashley Wruth,,,Snake Pit,-2,,,,,5:25,7:00,,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,
+24/04/2009,2009,Chris Reed,,,Fireguard,-1,,,,,7:30,7:41,,,,,,,,,,,,,,,,,,,,,,,,,28,0,0,,,,,,,,,,
+25/04/2009,2009,Chris Reed,,,Fireguard,-1,,,,,6:05,7:30,,,,,,,,,,,,,,,,,,,,,,,,,28,3,1,,,,,,,,,,
+26/04/2009,2009,Chris Reed,,,Fireguard,,,,,,5:43,6:47,,,,,,,,,,,,,,,,,,,,,,,,,11,0,0,,,,,,,,,,
+27/04/2009,2009,Jason Tack,,,Fireguard,,,,,,6:15,6:15,,,,,,,,,,,,,,,,,,,,,,,,,10,0,0,,,,,,,,,,
+07/04/2010,2010,Chris Reed,,,Fireguard,-1,no wind,clear,,,6:15,9:00,,,,,,,,,,,,,,,,,,,,,,,,,30,10,0,,,,,,,,,,
+08/04/2010,2010,Chris Reed,,,Fireguard,-1,no wind ,cloudy ,,,6:15,8:10,27,27,23,,,,,,12,14,14,,,,,,,0,0,0,,,,,28,16,0,,,,,,,,,,
+08/04/2010,2010,Chris Reed,,,Rock Creek,,,,,,8:15,8:15,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+09/04/2010,2010,Rob Sissons,,,Police Coulee,cool ,slight wind,,,,6:15,6:30,0,,,,,,,,0,,,,,,,,0,,,,,,,,0,0,0,,,,,,,,,,
+09/04/2010,2010,Krista Bekker,,,Snake Pit ,,,,,,5:45,6:30,1,1,1,0,,,,,0,0,0,0,,,,,0,0,0,0,,,,,1,0,0,,,,,,,,,,
+09/04/2010,2010,Chris Reed,Pat Fargey,,Fireguard,-2,no wind,clear,,,5:55,7:05,27,,,,,,,,14,,,,,,,,0,,,,,,,,27,14,0,,,,,,,,,,
+10/04/2010,2010,Chris Reed,Pat Fargey,,Fireguard,0,calm,clear,,,6:00,6:50,,,,,,,,,,,,,,,,,,,,,,,,,32,15,0,,,,,,,,,,
+11/04/2010,2010,Chris Reed,Pat Fargey,,Fireguard,-1,no wind,clear,,,6:10,7:17,,,,,,,,,,,,,,,,,,,,,,,,,29,13,0,,,,,,,,,,
+12/04/2010,2010,Chris Reed,Pat Fargey,,Fireguard,-3,windy,,,,6:25,7:00,,,,,,,,,,,,,,,,,,,,,,,,,28,2,0,,,,,,,,,,
+16/04/2010,2010,Krista Bekker,,,Police Coulee,,,,,,5:40,6:15,0,0,0,,,,,,0,0,0,,,,,,0,0,0,,,,,,0,0,0,,,,,,,,,,
+16/04/2010,2010,Ashley Wruth,,,Snake Pit ,,,,,,6:00,6:30,0,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0,0,0,,,,,,,,,,
+16/04/2010,2010,Colin Schmidt,,,Dixon Y,0,calm ,,,,6:10,7:10,7,8,7,7,7,,,,0,0,0,0,0,,,,0,0,0,0,0,,,,8,0,0,,,,,,,,,,
+23/04/2010,2010,Krista Bekker,,,Snake Pit ,cool ,20-30,,,,5:45,6:00,0,,,,,,,,0,,,,,,,,0,,,,,,,,0,0,0,,,,,,,,,,
+23/04/2010,2010,Colin Schmidt,,,Dixon Y,11,light wind,cloudy ,,,6:00,6:30,8,10,0,,,,,,0,0,0,,,,,,0,0,0,,,,,,10,0,0,,,,,,,,,,
+02/05/2011,2011,Ashley Wruth,Kendall Sonmor,,Snake Pit,,,,,,5:00,6:15,3,3,4,4,2,2,,,0,0,0,0,0,0,,,0,0,0,0,0,0,,,4,0,0,,,,,,,,,,
+05/05/2011,2011,Geoff Delves,,,Fireguard,-3,,,,,5:15,5:45,15,23,17,,,,,,0,0,0,,,,,,3,4,2,,,,,,23,0,4,,,,,,,,,,
+06/05/2011,2011,Kendall Sonmor,,,Police Coulee,,,,,,5:00,6:00,0,0,0,0,0,,,,0,0,0,0,0,,,,0,0,0,0,0,,,,0,0,0,,,,,,,,,,
+16/05/2011,2011,Geoff Delves,,,Fireguard,7,,,,,4:50,5:30,0,0,0,0,,,,,0,0,0,0,,,,,0,0,0,0,,,,,0,0,0,,,,,,,,,,
+27/04/2011,2011,Pat Fargey,,,Dixon Y,,,,,,5:35,6:10,5,6,7,8,,,,,2,2,2,2,,,,,0,0,0,0,,,,,8,2,0,,,,,,,,,,
+13/04/2012,2012,Heather Sauder,,,Rock Creek,2,,,,,5:52,7:00,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,
+13/04/2012,2012,Ashley Wruth,,,Fireguard,2,,,,,5:15,6:51,,,,,,,,,,,,,,,,,,,,,,,,,4,0,,,,,,,,,,,
+15/04/2012,2012,Pat Fargey,,,Snake Pit,2,,,,,7:05,7:35,,,,,,,,,,,,,,,,,,,,,,,,,2,1,,,,,,,,,,,
+16/04/2012,2012,Heather Sauder,,,Rock Creek,-5,<2,,,,5:30,7:30,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,
+16/04/2012,2012,Ashley Wruth,,,Fireguard,-3,<2,,,,5:15,7:54,,,,,,,,,,,,,,,,,,,,,,,,,13,2,,,,,,,,,,,
+30/03/2012,2012,Ashley Wruth,,,Snake Pit,2, 3-7,,,,5:57,6:51,,,,,,,,,,,,,,,,,,,,,,,,,2,1,,,,,,,,,,,
+03/05/2013,2013,Ashley Wruth,Ryan Peruniak,,Dixon Y,5,<2,Clear,,,5:15,,,,,,,,,,,,,,,,,,,,,,,,,,2,0,,,,,,,,,,,
+08/04/2013,2013,Laura James,,,Dixon Y,-12,10,40,,,6:05,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,
+09/04/2013,2013,Ashley Wruth,Natasha Lloyd,,Rock Creek,5,,Sunny,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09/04/2013,2013,Ashley Wruth,Natasha Lloyd,,Fireguard,5,,Sunny,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/04/2013,2013,Ashley Wruth,Natasha Lloyd,,Dixon Y,-1,,,,,5:48,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,
+19/04/2013,2013,Laura James,,,Dixon Y,-5,calm,85,,,5:40,,,,,,,,,,,,,,,,,,,,,,,,,,3,6,,,,,,,,,,,
+19/04/2013,2013,Michael Fitzsimmons,,,Snake Pit,-4,7,50,,,6:00,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,,,,,,,,,,,
+26/04/2013,2013,Ashley Wruth,Dennis Morgan,,Snake Pit,0,calm,clear,,,5:45,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,
+30/04/2013,2013,Ashley Wruth,Heather Sauder,,Rock Creek,-8,calm,clear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30/04/2013,2013,Ashley Wruth,Heather Sauder,,Fireguard,-8,calm,clear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03/04/2014,2014,Mark Otway,,,McGowans,-5,1.3,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+03/04/2014,2014,Chris Reed,,,Rock Creek,-2.4,1.3,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+03/04/2014,2014,Heather Sauder,,,Fireguard,-10,1.3,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+03/04/2014,2014,Mark Otway,,,McGowans,-1,2.1,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+04/04/2014,2014,Heather Sauder,,,Snake Pit,-6,2.7,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+04/04/2014,2014,Laura James,,,Val Marie Pasture,-1.5,4.2,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+04/04/2014,2014,Krista Cairns,,,Police Coulee,-1,2.1,95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+04/04/2014,2014,Adam Crosby,Jessica Martino,,Dixon Y,0,0,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,0,0,,,,,,,,,,
+10/04/2014,2014,Brenda Peterson,,,McGowans,-3,0.7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+10/04/2014,2014,Heather Sauder,Chris Reed,,Fireguard,1.4,0,70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,12,0,,,,,,,,,,
+11/04/2014,2014,Carolyn Gaudet,,,Walker,-4.5,1.7,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+11/04/2014,2014,Jeff Harder,Krista Cairns,,Dixon Y,-1.5,0.4,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,0,,,,,,,,,,
+11/04/2014,2014,Heather Sauder,Heather Robinson,,Snake Pit,-3.5,1.3,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+16/04/2014,2014,Heather Sauder,Mark Otway,,Fireguard,-2.2,2.3,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,0,,,,,,,,,,
+17/04/2014,2014,Carolyn Gaudet,Kira Hiltz,,Dixon Y,-3.1,2.9,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,4,,,,,,,,,,
+17/04/2014,2014,Krista Cairns,NA,,Val Marie Pasture,-3,2.9,95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+17/04/2014,2014,Heather Sauder,,,Police Coulee,-4,5.5,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+17/04/2014,2014,Colin Schmidt,,,Snake Pit,6,0,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+25/04/2014,2014,Michael Fitzsimmons,,,Snake Pit,4,0.6,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+25/04/2014,2014,Carolyn Gaudet,Kira Hiltz,,Dixon Y,,,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,0,0,,,,,,,,,,
+27/03/2014,2014,Krista Cairns,,,Rock Creek,-6.4,2.5,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+27/03/2014,2014,Carolyn Gaudet,,,Fireguard,-8,2,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,0,,,,,,,,,,
+27/03/2014,2014,Brenda Peterson,Miles Anderson,,McGowans,-14,1,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+28/03/2014,2014,Laura James,,,Snake Pit,-10,0.5,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+28/03/2014,2014,Mark Otway,,,Dixon Y,-9.9,0.9,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+28/03/2014,2014,Heather Sauder,,,Walker,-10,3,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+02/04/2015,2015,Jessus Karst,Kelsey Van Dyke,Typhenn Brichieri,Fireguard,0,40,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,0,,,,,,,,,,
+02/04/2015,2015,Heather Sauder,,,Rock Creek,0,40,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+03/04/2015,2015,Heather Sauder,Melina,"Bronwin, Jessus Karst, Calvin",Dixon Y,-5,2,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,1,,,,,,,,,,
+03/04/2015,2015,Typhenn Brichieri,Lacey Hebert,NA,Snake Pit,-3,20,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+09/04/2015,2015,Chris Reed,,,Rock Creek,-2,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+09/04/2015,2015,Laura Gardiner,Don McKinnon,"Ryan Fisher, Troy Wellicome",Fireguard,-7.3,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,0,,,,,,,,,,
+10/04/2015,2015,Laura Gardiner,Ryan Fisher,"Troy Wellicome, Amber Kapchinske, Lorraine",Dixon Y,3,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,0,,,,,,,,,,
+10/04/2015,2015,Chris Reed,Don McKinnon,,Snake Pit,0.3,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+16/04/2015,2015,Chris Reed,,,Rock Creek,-6.9,3.6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,0,0,,,,,,,,,,
+16/04/2015,2015,Mark Otway,Nathan Young,Justin Crowe,Fireguard,-7.6,2.3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,3,0,,,,,,,,,,
+17/04/2015,2015,Chris Reed,Nathan Young,,Dixon Y,0.5,1.8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,0,0,,,,,,,,,,
+17/04/2015,2015,Mark Otway,Justin Crowe,,Snake Pit,1.3,4.9,<5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+23/04/2015,2015,Mark Otway,Chris Reed,,Rock Creek,5.3,8.5,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+23/04/2015,2015,Nathan Young,,,Fireguard,5.4,13.4,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,1,0,,,,,,,,,,
+24/04/2015,2015,Justin Crowe,Laura Gardiner,,Dixon Y,3,5.7,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,0,0,,,,,,,,,,
+24/04/2015,2015,Nathan Young,Chris Reed,,Snake Pit,5,1.7,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+28/03/2015,2015,Heather Sauder,,,Dixon Y,5,0,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,,,,,,,,,,
+29/04/2015,2015,Nathan Young,,,Dixon Y,7.5,5.1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,0,0,,,,,,,,,,
+29/04/2015,2015,Chris Reed,,,Rock Creek,8.3,2.4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,
+29/04/2015,2015,Justin Crowe,,,Fireguard,7.1,2.2,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,0,0,,,,,,,,,,
+31/03/2015,2015,Heather Sauder,,,Dixon Y,3,2,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,0,,,,,,,,,,
+01/04/2016,2016,Don McKinnon,Chris Reed,,Fireguard,-4,0,4,0,0,6:20,7:04,8,8,8,,,,,,9,11,10,,,,,,0,0,,,,,,,8,11,0,0,0,0,0,0,0,0,0,,No
+01/04/2016,2016,Don McKinnon,Chris Reed,,Satellite,-4,0,4,0,0,6:20,7:04,,,,,,,,8,,,,,,,,0,,,,,,,,0,8,0,0,0,0,0,0,0,0,0,0,,No
+02/04/2016,2016,Don McKinnon,Nathan Young,Stefano Liccioli,Fireguard,-6,0,1,0,0,6:16,7:19,9,9,9,9,9,,,,9,12,17,15,,,,,0,0,0,0,,,,,9,17,0,0,1,0,0,0,0,0,0,,No
+02/04/2016,2016,Don McKinnon,Nathan Young,Stefano Liccioli,Satellite,-6,0,1,0,0,6:16,7:19,11,12,12,12,,,,,3,1,1,1,,,,,0,0,0,0,,,,,12,3,0,0,1,0,0,0,0,0,0,,No
+02/05/2016,2016,Justin Crowe,,,Snake Pit,6.7,1.9,1,0,0,5:14,7:14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,Yes
+02/05/2016,2016,Heather Olson,Samantha Fischer,NA,Dixon Y,2,0,1,0,0,5:47,7:17,,2,4,5,4,4,2,2,,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,,Yes
+02/05/2016,2016,Nils Lokken,,,Timbergulch,6.1,0,1,0,0,5:20,7:20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,,Yes
+03/04/2016,2016,Jen Carpenter,Mike Swystan,,Fireguard,4.3,3,2,0,0,6:10,7:55,9,9,9,7,8,9,8,2,5,6,7,6,5,3,3,0,0,0,0,0,0,0,0,0,9,7,0,0,1,0,0,0,0,0,0,,No
+03/04/2016,2016,Jen Carpenter,Mike Swystan,,Satellite,4.3,3,2,0,0,6:10,7:55,7,8,9,9,9,7,6,0,6,7,8,2,0,0,0,0,0,0,0,0,0,0,0,0,9,8,0,0,1,0,0,0,0,0,0,,No
+03/05/2016,2016,Nathan Young,Trilby Buck,,Rock Creek,2.7,3.6,1,0,0,5:11,7:11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Yes
+03/05/2016,2016,Laura Gardiner,Stefano Liccioli,Don McKinnon,Fireguard,3.6,0,1,0,0,5:11,7:11,11,11,11,11,11,11,11,11,2,2,2,2,2,2,2,1,0,0,0,0,0,0,0,0,11,2,0,0,1,0,0,0,0,0,0,,Yes
+03/05/2016,2016,Laura Gardiner,Stefano Liccioli,Don McKinnon,Satellite,3.6,0,1,0,0,5:11,7:11,14,15,17,17,17,17,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,1,0,0,0,0,0,0,,Yes
+04/04/2016,2016,Don McKinnon,Jen Carpenter,Mike Swystan,Fireguard,3,5,4,0,0,6:20,8:05,12,13,13,12,15,10,,0,12,14,13,17,10,1,,0,0,0,0,0,0,0,,0,15,17,0,0,1,0,1,1,0,1,0,,No
+04/04/2016,2016,Don McKinnon,Jen Carpenter,Mike Swystan,Satellite,3,5,4,0,0,6:20,8:05,11,10,9,2,2,9,,2,7,9,9,0,0,2,,0,0,0,0,0,0,0,,0,11,9,0,0,1,0,1,1,0,1,0,,No
+07/04/2016,2016,Nathan Young,Stefano Liccioli,,Snake Pit,1.8,17.1,1,0,0,5:56,7:56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,Yes
+07/04/2016,2016,Sherri Clifford,Heather Facette,,Dixon Y,-0.4,0,1,0,0,6:05,7:50,5,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,,Yes
+07/04/2016,2016,Beatriz Prieto,Jessus Karst,,Timbergulch,-1,0,1,0,0,6:03,8:03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,,Yes
+08/04/2016,2016,Chris Reed,Laura Gardiner,,Rock Creek,-6,1.5,1,0,0,6:00,8:02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,,Yes
+08/04/2016,2016,Justin Crowe,Samantha Fischer,,Fireguard,-2.7,3.2,1,0,0,5:53,7:53,13,11,11,11,10,9,11,10,0,6,2,10,15,14,10,8,0,0,0,0,0,0,0,0,13,15,0,0,1,0,0,0,0,0,0,,Yes
+08/04/2016,2016,Justin Crowe,Samantha Fischer,,Satellite,-2.7,3.2,1,0,0,5:53,7:53,,11,12,12,11,12,12,11,,2,5,1,2,0,0,0,0,0,0,0,0,0,0,0,12,5,0,0,1,0,0,0,0,0,0,,Yes
+12/04/2016,2016,Nils Lokken,Nathan Young,,Dixon Y,2.3,2.5,2,0,0,5:55,7:55,5,5,5,5,5,5,5,5,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,0,0,0,0,1,0,0,0,0,,Yes
+12/04/2016,2016,Justin Crowe,,,Snake Pit,6.1,5.3,3,0,0,5:41,7:41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,Yes
+13/04/2016,2016,Stefano Liccioli,Chris Reed,,Rock Creek,6,2.7,3,0,0,5:50,7:50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,Yes
+13/04/2016,2016,Samantha Fischer,Laura Gardiner,,Fireguard,3.5,6.2,4,0,0,5:50,7:50,13,14,14,14,14,13,12,15,6,7,7,8,6,6,4,2,0,0,0,0,0,0,0,0,15,8,0,0,1,0,0,1,0,1,1,Prairie falcon,Yes
+13/04/2016,2016,Samantha Fischer,Laura Gardiner,,Satellite,3.5,6.2,4,0,0,5:50,7:50,12,12,12,12,12,12,12,12,0,2,4,2,0,0,0,0,0,0,0,0,0,0,0,0,12,4,0,0,1,0,0,1,0,1,1,Prairie falcon,Yes
+19/04/2016,2016,Heather Facette,,,Snake Pit,-1,3.5,1,0,0,5:50,7:35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,,Yes
+19/04/2016,2016,Laura Gardiner,Autumn Watkinson,Coleen Crill,Dixon Y,-1,3.5,1,0,0,5:43,7:43,4,4,4,3,4,4,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,,Yes
+21/04/2016,2016,Heather Facette,Autumn Watkinson,Don McKinnon,Fireguard,-1.7,3,1,0,0,5:30,7:15,13,13,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,,Yes
+21/04/2016,2016,Heather Facette,Autumn Watkinson,Don McKinnon,Satellite,-1.7,3,1,0,0,5:30,7:15,15,14,15,15,15,15,15,15,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,15,1,0,0,0,0,0,0,0,0,0,,Yes
+21/04/2016,2016,Laura Gardiner,,,Rock Creek,-1.7,3,1,0,0,5:35,7:35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,,Yes
+21/04/2016,2016,Beatriz Prieto,Ryan Fisher,NA,South Horse Creek,-4.3,3.3,1,0,0,5:25,7:27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,Yes
+29/03/2016,2016,Don McKinnon,Chris Reed,,Fireguard,2,16,4,0,0,6:20,8:07,0,10,11,11,11,11,11,,0,0,4,5,6,4,8,,0,0,0,0,0,0,0,,11,8,0,0,0,0,0,0,0,0,0,,No
+30/03/2016,2016,Don McKinnon,Chris Reed,,Fireguard,-8,0,1,0,0,6:19,8:30,9,11,10,10,9,,9,9,13,16,16,,12,,4,3,0,0,0,,0,,0,0,11,16,0,0,1,0,1,0,0,0,0,,No
+30/03/2016,2016,Don McKinnon,Chris Reed,,Satellite,-8,0,1,0,0,6:19,8:30,,,10,10,,,,,,,2,4,,,,,,,0,0,,,,,10,4,0,0,1,0,1,0,0,0,0,,No
+31/03/2016,2016,Chris Reed,,,Satellite,-5,10,3,0,2,7:00,7:47,8,9,10,12,10,10,,,2,2,2,2,0,0,,,0,0,0,0,0,0,,,12,2,0,0,1,0,0,0,0,0,0,,No
+31/03/2016,2016,Don McKinnon,,,Fireguard,-5,10,4,0,0,6:29,8:15,,8,8,8,8,8,8,8,,0,3,10,7,7,2,4,,0,0,0,0,0,0,0,8,10,0,0,0,0,1,0,0,0,0,,No
+05-04-2017,2017,Justin Crowe,NA,NA,Dixon Y,-5,4.2,1,0,0,6:06,8:06,4,5,5,5,5,5,5,5,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,1,0,0,0,0,0,0,0,NA,Yes
+06-04-2017,2017,Laura Gardiner,Chris Reed,NA,Fireguard,4.2,18.6,1,0,0,6:05,8:05,5,4,4,4,4,4,4,0,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0,NA,Yes
+06-04-2017,2017,Laura Gardiner,Chris Reed,NA,Fireguard Satellite,4.2,18.6,1,0,0,6:05,8:05,11,11,11,11,11,11,11,11,0,0,0,3,3,2,2,1,0,0,0,0,0,0,0,0,11,3,0,0,0,0,0,1,0,0,0,NA,Yes
+12-04-2017,2017,Nathan Young,NA,NA,Dixon Y,-5,2.2,4,0,0,5:52,7:52,4,4,4,4,4,4,4,4,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,1,0,0,0,NA,Yes
+12-04-2017,2017,Justin Crowe,NA,NA,Fireguard,-2.8,2.5,4,0,0,5:52,7:52,6,6,5,4,5,5,3,3,0,2,6,2,2,1,0,0,0,0,0,0,0,0,0,0,6,6,0,0,1,0,0,0,0,0,0,NA,Yes
+12-04-2017,2017,Chris Reed,NA,NA,Fireguard Satellite,-2,2.1,1,0,0,5:50,8:10,5,6,6,3,3,3,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,1,0,0,1,0,0,0,NA,Yes
+21-04-2017,2017,Laura Gardiner,7 volunteers,NA,Dixon Y,2.6,0,1,0,0,5:36,7:36,1,2,3,5,5,5,5,3,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,1,0,0,0,NA,Yes
+21-04-2017,2017,Chris Reed,Samantha Fischer,NA,Fireguard,3.8,2.4,4,0,0,5:36,7:19,6,4,0,0,0,2,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,1,0,1,1,0,0,0,NA,Yes
+21-04-2017,2017,Chris Reed,Samantha Fischer,NA,Fireguard Satellite,3.8,2.4,4,0,0,5:36,7:19,8,11,11,11,11,11,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,1,1,0,1,1,0,0,0,NA,Yes
+28-04-2017,2017,Heather Facette,Jacqueline Menzies,NA,Dixon Y,4.8,2.7,2,0,0,5:25,7:25,5,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,NA,Yes
+28-04-2017,2017,Chris Reed,Ffion Cassidy,NA,Fireguard,2.9,2.8,3,0,0,5:25,7:20,5,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,NA,Yes
+28-04-2017,2017,Chris Reed,Ffion Cassidy,NA,Fireguard Satellite,2.9,2.8,3,0,0,5:28,7:20,9,13,13,13,13,13,13,13,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,13,1,0,0,0,0,1,0,0,0,0,NA,Yes
+04-05-2017,2017,Jessus Karst,Beatriz Prieto,NA,Fireguard,5,0,1,0,0,5:50,7:20,2,1,1,1,0,3,1,NC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,1,SEOW,No
+04-05-2017,2017,Jessus Karst,Beatriz Prieto,NA,Fireguard Satellite,5,0,1,0,0,5:50,7:20,13,14,14,14,14,14,13,NC,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,14,1,0,0,1,0,0,1,0,0,1,SEOW,No
+05-04-2018,2018,Laura Gardiner,Neil Fisher,NA,Dixon Y,-9.2,15.2,4,0,0,6:15,8:15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Yes
+06-04-2018,2018,Chris Reed,Stefano Liccioli,NA,Fireguard,-18,0,1,0,0,6:10,8:10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Yes
+06-04-2018,2018,Chris Reed,Stefano Liccioli,NA,Fireguard Satellite,-18,0,1,0,0,6:10,8:10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Yes
+19-04-2018,2018,Samantha Fischer,Neil Fisher,NA,Dixon Y,0.9,2.6,1,0,0,5:52,7:52,4,4,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,1,0,0,NA,Yes
+20-04-2018,2018,Laura Gardiner,Chris Reed,NA,Fireguard,-0.4,4.5,1,0,0,5:38,7:38,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,1,1,0,1,0,NA,Yes
+20-04-2018,2018,Chris Reed,Laura Gardiner,NA,Fireguard Satellite,-0.4,4.5,1,0,0,5:38,7:38,8,10,10,8,8,8,8,6,2,10,8,6,6,6,6,0,0,0,0,0,0,0,0,0,10,10,0,0,0,0,1,1,0,0,0,NA,Yes
+26-04-2018,2018,Heather Facette,Maggi Sliwinski,"Marta Verdu, Hanna Rogers, Claudia Henriguez",Dixon Y,-4,3.2,1,0,0,5:25,7:25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,NA,Yes
+27-04-2018,2018,Chris Reed,Jacqueline Menzies,NA,Fireguard,0.1,3.6,1,0,0,5:26,7:26,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,NA,Yes
+27-04-2018,2018,Jacqueline Menzies,Chris Reed,NA,Fireguard Satellite,0.1,3.6,1,0,0,5:26,7:26,10,10,9,9,9,5,2,0,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,10,6,1,0,0,0,0,1,0,0,0,NA,Yes
+03-05-2018,2018,Stefano Liccioli,"Marta Verdu, Hanna Rogers, Claudia Henriguez",NA,Dixon Y,4.5,2.5,2,0,0,5:20,7:20,3,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,NA,Yes
+04-05-2018,2018,Chris Reed,NA,NA,Fireguard,4.4,2.3,1,0,0,5:15,7:15,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NA,Yes
+04-05-2018,2018,Justin Crowe,Maggi Sliwinski,NA,Fireguard Satellite,6.6,0.2,2,0,0,5:15,7:15,10,1,1,2,6,5,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,0,1,0,1,0,1,0,0,0,NA,Yes
+03-04-2019,2019,Laura Gardiner,Janine Jaffrey,Ilsa Griebel,Dixon Y,-2.2,6.3,1,0,0,6:10,8:10,4,4,4,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,1,0,NA,Yes
+08-04-2019,2019,Chris Reed,Justin Crowe,,Fireguard,-1.1,3,1,0,0,6:00,8:00,1,1,1,0,0,0,0,1,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,NA,Yes
+08-04-2019,2019,Justin Crowe,Chris Reed,,Fireguard satellite,-1.1,3,1,0,0,6:00,8:00,10,10,10,10,10,11,11,11,8,8,5,5,3,4,0,0,0,0,0,0,0,0,0,0,11,8,0,0,0,0,0,0,0,0,0,NA,Yes
+10-04-2019,2019,Samantha Fischer,Michelle Sawatzky,,Dixon Y,2,0,4,0,0,6:00,8:00,4,4,4,4,4,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,NA,Yes
+17-04-2019,2019,Stefano Liccioli,Emma Struivig de Groot,,Dixon Y,1.5,3,4,1,0,5:50,7:50,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,NA,Yes
+18-04-2019,2019,Chris Reed,Michelle Sawatzky,Cameron Nordell,Fireguard,-4,0,1,0,0,5:40,7:45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,NA,Yes
+18-04-2019,2019,Chris Reed,Michelle Sawatzky,Cameron Nordell,Fireguard satellite,-4,0,1,0,0,5:40,7:45,12,12,12,3,1,0,0,0,8,8,2,2,2,0,0,0,0,0,0,0,0,0,0,0,12,8,0,0,1,0,0,1,0,0,0,NA,Yes
+21-04-2019,2019,Stefano Liccioli,Emma Struivig de Groot,Janine Jaffrey,Dixon Y,0.1,17,2,0,0,5:50,7:50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,Yes
+25-04-2019,2019,Justin Crowe,Laura Gardiner,,Fireguard,1.2,16.8,2,0,0,5:30,7:30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Yes
+25-04-2019,2019,Laura Gardiner,Justin Crowe,,Fireguard satellite,1.2,16.8,2,0,0,5:30,7:30,12,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,NA,Yes
+25-04-2019,2019,Michelle Sawatzky,,,Dixon Y,2.2,16.2,2,0,0,5:30,7:30,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,NA,Yes
+02-05-2019,2019,Laura Gardiner,Stefano Liccioli,,Dixon Y,3,0,1,0,0,5:20,7:20,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,1,0,0,0,NA,Yes
+03-05-2019,2019,Justin Crowe,Chris Reed,,Fireguard,-3,2.6,1,0,0,5:15,7:15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Yes
+03-05-2019,2019,Chris Reed,Justin Crowe,,Fireguard satellite,-3,2.6,1,0,0,5:15,7:15,12,5,4,9,9,4,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,0,0,0,0,0,0,0,0,0,NA,Yes
+NA,NA,SK Env. CDC,,,Dixon Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28-03-2020,2020,Stefano Liccioli,,,Dixon Y,0.8,5.0,1,0,0,6:25,8:25,2,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,NA,Yes
+03-04-2020,2020,Alex Heathcote,,,Dixon Y,-13.0,1.1,3,0,0,6:12,8:12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,Yes
+09-04-2020,2020,Stefano Liccioli,,,Dixon Y,-7.0,2.2,1,0,0,6:02,8:02,3,3,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,NA,Yes
+17-04-2020,2020,Alex Heathcote,,,Dixon Y,-0.5,8.4,4,0,0,5:45,7:45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,Yes
+22-04-2020,2020,Alex Heathcote,,,Dixon Y,-1.0,0.9,2,0,0,5:35,7:35,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,NA,Yes
+25-04-2020,2020,Stefano Liccioli,,,Fireguard satellite,-5.7,1.7,1,1,0,5:32,7:32,16,21,22,23,23,14,17,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,NA,Yes
+25-04-2020,2020,Stefano Liccioli,,,Fireguard,-5.7,1.7,1,1,0,5:32,7:32,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NA,Yes
+30-04-2020,2020,Alex Heathcote,,,Dixon Y,3.5,2.1,1,0,0,5:20,7:20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Yes
