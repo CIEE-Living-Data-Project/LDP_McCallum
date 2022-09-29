@@ -1,5 +1,5 @@
 ---
-title: Variation in male greater sage grouse abundance at lek sites in Grasslands National Park
+title: Variation in male greater sage-grouse visitation to lek sites in Grasslands National Park
 author:
     name: Katlin McCallum
     email: mccallka@uregina.ca
@@ -10,7 +10,7 @@ address:
     address: Department of Biology, 3737 Wascana Parkway, Regina SK
 
 abstract: |
-  Grasslands National Park in southern Saskatchewan has a population of greater sage grouse. Each spring, the male greater sage grouse congregate in groups at known locations to lek. These lek sites were monitored from 2007-2020 and the abundance of male birds was counted at each site. I am graphically illustrating the abundance trends over the years for each lek site.
+  Grasslands National Park in southern Saskatchewan has a population of greater sage-grouse. Each spring, the male greater sage grouse congregate in groups at known locations to lek. These lek sites were monitored from 2007-2020 and the number of male birds was counted at each site. I am graphically illustrating the abundance trends over the years for each lek site.
 
 keywords: 
   - grassland ecology
@@ -29,14 +29,22 @@ output:
 
 ## Introduction:
 
-Male greater sage grouse congregate during the breeding season to lek [@knick2013].
+Greater age grouse are federally listed as an endagered species in Canada. They occupy a very small portion of their historic range. Part of their reduced range falls within Grasslands National Park in southern Saskatchewan.
+
+During the breeding season, male greater sage grouse congregate during the to lek, a type of mating ritual[@knick2013]. Greater sage-grouse show strong fidelity to their lek sites and return to them yearly [@walsh2004]. Counting the number of males at a lek site in the spring can provide good insight into population trends.
 
 ## Methods:
 
-Grasslands National Park staff observed lek sites during the breeding season from 2005-2020. The maximum number of male birds at a lek site at one time was termed peak male attendance and this was recorded for each lek site. Using the ggplot2 package in R, I am graphically representing the variation in abundance between lek sites over the 15 years of observations.
+Grasslands National Park staff observed lek sites during the breeding season from 2007-2020. The maximum number of male birds at a lek site at one time was termed peak male attendance and this was recorded for each lek site. Using the ggplot2 package in R, I am graphically representing the variation in visitation over the 15 year study period for at each of the lek sites.
 
 ## Results:
 
+2010 saw the most male greater sage grouse at the observed lek sites. A total of 193 birds were observed that year. In 2006, the fewest number of male greater sage grouse were observed at the lek sites with only 17 birds.
+
+![](images/Screen%20Shot%202022-09-28%20at%208.53.08%20PM.png)
+
 ## Discussion:
+
+Greater sage grouse observations at lek sites in Grasslands National Park varied over the years. The years with low numbers of birds observed was due in part to reduced survey effort. The lek sites with more surveys conducted over the study period are the sites nearest to Grasslands National Park main centre.
 
 ## References:

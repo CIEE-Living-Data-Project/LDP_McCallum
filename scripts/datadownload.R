@@ -5,7 +5,7 @@ dir.create("manuscript/")
 
 dir.create("data/url")
 
-## download from a url
+## download from a url - Government of Canada dataset
 # downloaded on 2022-09-16
 
 data.url <- "https://open.canada.ca/data/dataset/9458e765-9cf1-4091-aa02-285df5e65bb3/resource/dcca6b68-1c6e-4fd8-aa31-63bda1b6750d/download/grasslands_np_grasslands_greater_sage-grouse_abundance_2007-2020_data.csv"
