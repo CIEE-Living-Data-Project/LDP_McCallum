@@ -20,7 +20,7 @@ date: "`r Sys.Date()`"
 bibliography: references.bib
 linenumbers: true
 numbersections: true
-# Use a CSL with `citation_package = "default"`
+# Use a CSL:`
 # csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/ecology-letters.csl"
 
 output: 
